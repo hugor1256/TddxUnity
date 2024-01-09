@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TddxUnity", "TddxUnity\TddxUnity.csproj", "{5336D0BE-446C-4A77-BBBD-EF24B27E196F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{4CABF771-6C1F-41FD-8198-94E7F11F15F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5336D0BE-446C-4A77-BBBD-EF24B27E196F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5336D0BE-446C-4A77-BBBD-EF24B27E196F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5336D0BE-446C-4A77-BBBD-EF24B27E196F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5336D0BE-446C-4A77-BBBD-EF24B27E196F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CABF771-6C1F-41FD-8198-94E7F11F15F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CABF771-6C1F-41FD-8198-94E7F11F15F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CABF771-6C1F-41FD-8198-94E7F11F15F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CABF771-6C1F-41FD-8198-94E7F11F15F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45A4D1AA-406E-4009-8363-396B41F53ED0}
+	EndGlobalSection
+EndGlobal
